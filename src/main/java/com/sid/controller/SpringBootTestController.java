@@ -9,6 +9,6 @@ public class SpringBootTestController {
 
     @RequestMapping(method = RequestMethod.GET,path = "/hello")
     public String test(){
-        return "Hello World";
+        return "Hello World 5";
     }
 }
