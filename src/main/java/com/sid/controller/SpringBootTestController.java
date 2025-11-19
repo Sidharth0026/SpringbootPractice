@@ -14,6 +14,6 @@ public class SpringBootTestController {
     }
 
     @GetMapping("/demoUrl")
-    public String demo(){ return "Hello Demo"; }
+    public String demo(){ return "Hello Demo 1"; }
 
 }
