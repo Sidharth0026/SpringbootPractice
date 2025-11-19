@@ -17,6 +17,6 @@ public class SpringBootTestController {
     public String demo(){ return "Hello Demo 1"; }
 
     @GetMapping("/gg")
-    public String gg(){ return "gg"; }
+    public String gg(){ return "gg2"; }
 
 }
